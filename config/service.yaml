@@ -1,0 +1,9 @@
+folderPath : C:\test_azubi\test
+backupFolder :  C:\test_azubi\test\backup
+
+mysql:
+  username: root
+  password: 123456
+  host: 127.0.0.1
+  port: 3306
+  dbname: sap2jira
